@@ -1,1 +1,1 @@
-lil website thingy, I need to fix scaling issues when fullscreening tho
+Silly little website for practice :3

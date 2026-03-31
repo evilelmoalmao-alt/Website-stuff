@@ -1,6 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Oswald:wght@200..700&display=swap');
 
+html {
+    aspect-ratio: 16/9;
+}
+
 body {
     background-color: black;
     font-family: "Oswald";
@@ -40,7 +44,7 @@ body {
 .banner {
     position: fixed;
     width: 100%;
-    background-color:rgb(10, 10, 10);
+    background-color:rgb(15, 15, 15);
     top: 0;
     left: 0;
     z-index: 1;
